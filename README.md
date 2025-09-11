@@ -1,4 +1,8 @@
-UPDATES: 
+<a href="https://trendshift.io/repositories/8319" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8319" alt="zijie0%2FHumanSystemOptimization | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
+UPDATES:
+
+再补充一篇更新：[养生博主的 24 年总结](https://zhuanlan.zhihu.com/p/1896275046068094483)。
 
 补充一篇 24 年初的文章，分享最近一年的一些个人实践：[养生博主的 23 年总结](https://zhuanlan.zhihu.com/p/675470252)。
 
